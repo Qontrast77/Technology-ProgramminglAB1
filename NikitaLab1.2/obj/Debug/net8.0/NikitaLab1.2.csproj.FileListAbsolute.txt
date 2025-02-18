@@ -1,0 +1,15 @@
+E:\Технологии программирования\1-ая лаба\NikitaLab1.2\bin\Debug\net8.0\NikitaLab1.2.exe
+E:\Технологии программирования\1-ая лаба\NikitaLab1.2\bin\Debug\net8.0\NikitaLab1.2.deps.json
+E:\Технологии программирования\1-ая лаба\NikitaLab1.2\bin\Debug\net8.0\NikitaLab1.2.runtimeconfig.json
+E:\Технологии программирования\1-ая лаба\NikitaLab1.2\bin\Debug\net8.0\NikitaLab1.2.dll
+E:\Технологии программирования\1-ая лаба\NikitaLab1.2\bin\Debug\net8.0\NikitaLab1.2.pdb
+E:\Технологии программирования\1-ая лаба\NikitaLab1.2\obj\Debug\net8.0\NikitaLab1.2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Технологии программирования\1-ая лаба\NikitaLab1.2\obj\Debug\net8.0\NikitaLab1.2.AssemblyInfoInputs.cache
+E:\Технологии программирования\1-ая лаба\NikitaLab1.2\obj\Debug\net8.0\NikitaLab1.2.AssemblyInfo.cs
+E:\Технологии программирования\1-ая лаба\NikitaLab1.2\obj\Debug\net8.0\NikitaLab1.2.csproj.CoreCompileInputs.cache
+E:\Технологии программирования\1-ая лаба\NikitaLab1.2\obj\Debug\net8.0\NikitaLab1.2.sourcelink.json
+E:\Технологии программирования\1-ая лаба\NikitaLab1.2\obj\Debug\net8.0\NikitaLab1.2.dll
+E:\Технологии программирования\1-ая лаба\NikitaLab1.2\obj\Debug\net8.0\refint\NikitaLab1.2.dll
+E:\Технологии программирования\1-ая лаба\NikitaLab1.2\obj\Debug\net8.0\NikitaLab1.2.pdb
+E:\Технологии программирования\1-ая лаба\NikitaLab1.2\obj\Debug\net8.0\NikitaLab1.2.genruntimeconfig.cache
+E:\Технологии программирования\1-ая лаба\NikitaLab1.2\obj\Debug\net8.0\ref\NikitaLab1.2.dll
